@@ -1,5 +1,5 @@
 :root {
-    font-size: 14px;
+    font-size: 15px;
   font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
 }
 
@@ -184,7 +184,7 @@ ul a:hover{text-decoration:underline;width: 100%;
 .banner .card .heading {
     color: DarkSlateGrey  ;
     font-family: serif;
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 0;
     padding: 0 5vw 2vw;
 }
